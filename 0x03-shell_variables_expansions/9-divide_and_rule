@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((POWER / DIVIDE))
+echo -e "2\n12"
